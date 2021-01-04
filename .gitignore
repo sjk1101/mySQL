@@ -1,0 +1,6 @@
+/.vscode
+/debug
+app.conf
+*.tar
+__debug_bin
+.idea*
