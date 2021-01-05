@@ -2,7 +2,7 @@ package mySQL
 
 import (
 	"github.com/gin-gonic/gin"
-	"mySQL/core"
+	"github.com/sjk1101/mySQL/core"
 )
 
 type Contextor interface {

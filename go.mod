@@ -1,4 +1,4 @@
-module mySQL
+module github.com/sjk1101/mySQL
 
 go 1.12
 

@@ -2,8 +2,8 @@ package dao
 
 import (
 	"github.com/jinzhu/gorm"
-	"mySQL"
-	"mySQL/example/mysql/model"
+	"github.com/sjk1101/mySQL"
+	"github.com/sjk1101/mySQL/example/mysql/model"
 )
 
 type modelDao struct {

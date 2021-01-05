@@ -2,7 +2,7 @@ package dao
 
 import (
 	"github.com/jinzhu/gorm"
-	"mySQL"
+	"github.com/sjk1101/mySQL"
 )
 
 var _mySQL *mySQL.MySQL

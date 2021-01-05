@@ -1,7 +1,7 @@
 package model
 
 import (
-	"mySQL"
+	"github.com/sjk1101/mySQL"
 )
 
 type Model struct {

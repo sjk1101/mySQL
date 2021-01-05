@@ -1,8 +1,8 @@
 package main
 
 import (
-	"mySQL/example/mysql/dao"
-	"mySQL/example/mysql/model"
+	"github.com/sjk1101/mySQL/example/mysql/dao"
+	"github.com/sjk1101/mySQL/example/mysql/model"
 )
 
 func main() {
